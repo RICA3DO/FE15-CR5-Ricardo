@@ -1,0 +1,12 @@
+.hero {
+    height: 45rem;
+    background-position: bottom;
+    background-size: cover;
+}
+.foot {
+    background-color: #15bee9;
+    color: white;
+    background-position: bottom;
+    margin-top: 50rem;
+    height: 8rem;
+}
